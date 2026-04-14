@@ -62,6 +62,16 @@ The project is implemented using Python in a Jupyter Notebook and uses machine l
 * The developed pipeline ensures **reproducibility and scalability** for healthcare prediction tasks.
 
 ---
+## Files
+
+| File                        | Description                                                              |
+| --------------------------- | ------------------------------------------------------------------------ |
+| `lung_dataset.csv`          | Patient diagnosis dataset used for lung cancer prediction                |
+| `lung_cancer_project.ipynb` | Main notebook containing EDA, preprocessing, model training & evaluation |
+| `best_model_pipeline.pkl`   | Saved best machine learning model pipeline                               |
+| `model_comparison.csv`      | Comparison of different model performance metrics                        |
+| `README.md`                 | Project overview, workflow, and insights                                 |
+
 
 ### 🧠 Tech Stack
 
